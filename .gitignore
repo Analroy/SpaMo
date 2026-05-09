@@ -69,4 +69,8 @@ tmp/
 
 datasets
 
+preprocess/
+
+chace_dir/
+
 __pycache__
